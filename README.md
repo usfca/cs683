@@ -1,2 +1,1 @@
-# cs683
-Hacking, Malware and Cybersecurity
+# CS683 - Hacking, Malware and Cybersecurity
