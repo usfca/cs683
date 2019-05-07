@@ -1,0 +1,3 @@
+[submodule "administration/hadvar"]
+	path = administration/hadvar
+	url = https://github.com/HarrisonKeeling/hadvar.git
