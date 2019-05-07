@@ -23,6 +23,7 @@ The goal for this script is to provide some easy understanding of how ECIES work
 ## Credit
 https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman
 https://www.cryptopp.com/wiki/Elliptic_Curve_Integrated_Encryption_Scheme
+https://www.researchgate.net/publication/255970113_A_Survey_of_the_Elliptic_Curve_Integrated_Encryption_Scheme
 https://medium.com/asecuritysite-when-bob-met-alice/generating-an-encryption-key-without-a-pass-phrase-meet-ecies-bbea1787d846
 https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange#Secrecy_chart
 https://www.globalsign.com/en/blog/elliptic-curve-cryptography/
