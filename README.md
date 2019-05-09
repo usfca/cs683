@@ -5,7 +5,8 @@
 =======
 0. [cryptography - RC5/RC6](https://github.com/usfca/cs683/tree/master/cryptography)
 1. [Penetration testing](https://github.com/usfca/cs683/tree/master/penetration%20testing) - By Timothy Yung
-1. [PDF Attack and Phishing Email](https://github.com/ohbriansung/phishing_email_pdf_attack) - By Brian Sung
+2. [PDF Attack and Phishing Email](https://github.com/ohbriansung/phishing_email_pdf_attack) - By Brian Sung
+3. [mailctl - File-exchange using HPKE](https://github.com/danielhavir/go-hpke) - By Daniel Havir
 
 ## Raspberry Pi
 
