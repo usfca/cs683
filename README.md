@@ -8,6 +8,8 @@
 3. [Polyglot Keylogger](https://github.com/HassanChadad/Polyglot_keylogger) - By Hassan Chadad
 4. [Windows Spyware](https://github.com/HassanChadad/CS683-Spicyware) - By Hassan Chadad
 5. [Worm Malware](https://github.com/HassanChadad/CS683-WormAssignment) - By Hassan Chadad
+6. [mailctl - File-exchange using HPKE](https://github.com/danielhavir/go-hpke) - By Daniel Havir
+
 
 ## Raspberry Pi
 
