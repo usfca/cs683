@@ -1,0 +1,12 @@
+All in all, Spring Boot is a project built on the top of the Spring framework. It provides a simpler and
+faster way to set up, configure, and run both simple and web-based applications.
+
+In the Spring core framework, you need to configure all the things for yourself. Hence, you can have a lot
+of configuration files, such as XML descriptors. That’s one out of the main problems that Spring Boot solves for you.
+
+It smartly chooses your dependencies, auto-configures all the features you will want to use, and you can start
+your application with one click. Furthermore, it also simplifies the deployment process of your application.
+
+It can be a bit frightening for a few of you, because it seems that there a lot of “magic” things happening in
+the background. Despite that, I will explain the best features of the framework. I hope you take the advantage of
+this additional knowledge on Spring Boot in your future projects. It really makes your life simpler.
