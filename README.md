@@ -9,6 +9,7 @@
 4. [Windows Spyware](https://github.com/HassanChadad/CS683-Spicyware) - By Hassan Chadad
 5. [Worm Malware](https://github.com/HassanChadad/CS683-WormAssignment) - By Hassan Chadad
 6. [mailctl - File-exchange using HPKE](https://github.com/danielhavir/go-hpke) - By Daniel Havir
+7. [RC6](https://github.com/jaldujaili/cs683/tree/master/cryptography/RC6/Jordan's%20RC6) - By Jordan Aldujaili
 
 
 ## Raspberry Pi
